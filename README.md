@@ -8,7 +8,7 @@
 
 	ql repo https://github.com/leizh25/jd_bean_change.git "jd_" "NoUsed" "ql|utils|USER_AGENTS|jdCookie|JS_USER_AGENTS"
 
-	#包含sendNotify:
+	包含sendNotify:
 
 	ql repo https://github.com/leizh25/jd_bean_change.git "jd_" "NoUsed" "ql|sendNotify|utils|USER_AGENTS|jdCookie|JS_USER_AGENTS"
 
