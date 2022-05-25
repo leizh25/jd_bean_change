@@ -6,11 +6,11 @@
 
 	不包含sendNotify:
 
-	ql repo https://github.com/leizh25/jd_bean_change.git "jd_" "" "ql|USER_AGENTS|jdCookie"
+	ql repo https://github.com/leizh25/jd_bean_change.git "jd_" "" "USER_AGENTS|jdCookie"
 
 	包含sendNotify:
 
-	ql repo https://github.com/leizh25/jd_bean_change.git "jd_" "" "ql|sendNotify|USER_AGENTS|jdCookie"
+	ql repo https://github.com/leizh25/jd_bean_change.git "jd_" "" "sendNotify|USER_AGENTS|jdCookie"
 
 2.10.3之前版本青龙拉库命令:
 
