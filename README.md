@@ -7,11 +7,11 @@
 
 	不包含sendNotify:
 
-	ql repo https://github.com/leizh25/jd_bean_change.git "jd_" "" "USER_AGENTS|jdCookie"
+	ql repo https://github.com/leizh25/jd_bean_change.git "jd_|pkc_" "" "USER_AGENTS|jdCookie"
 
 	包含sendNotify:
 
-	ql repo https://github.com/leizh25/jd_bean_change.git "jd_" "" "USER_AGENTS|sendNotify|jdCookie"
+	ql repo https://github.com/leizh25/jd_bean_change.git "jd_|pkc_" "" "USER_AGENTS|sendNotify|jdCookie"
 
 
 
